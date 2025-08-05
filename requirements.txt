@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+python-whois
+dnspython
+python-nmap
+colorama
