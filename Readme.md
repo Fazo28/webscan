@@ -44,5 +44,7 @@ WEBSCAN is a powerful, feature-rich website scanning tool designed for both Term
    pip install -r requirements.txt
    chmod +x webscan.py
 2. USAGE
-   ```bash
-  ./webscan.py -u https://example.com
+   ```bash**:
+   ./webscan.py -u https://example.com
+
+  
