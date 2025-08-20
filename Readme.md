@@ -39,7 +39,7 @@ WEBSCAN is a powerful, feature-rich website scanning tool designed for both Term
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Old-Hacker01/webscan.git
+   git clone https://github.com/Fazo28/webscan.git
    cd webscan
    pip install -r requirements.txt
    chmod +x webscan.py
